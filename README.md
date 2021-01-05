@@ -1,4 +1,4 @@
-## Hello, Weather APp
+## Hello, Weather APP
 
 ## <a name='TOC'>🐼 Summary</a>
 
